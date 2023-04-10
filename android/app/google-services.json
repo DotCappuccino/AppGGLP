@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243897852403",
+    "project_id": "smartfluxappgglp",
+    "storage_bucket": "smartfluxappgglp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243897852403:android:71a0d31ae581908b5fb286",
+        "android_client_info": {
+          "package_name": "com.example.appgglp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243897852403-coebp7fdoeb1uui8v026l245ld61lv99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs_FgzjHMbs2jW1eGfpbYqSYeSujGVJ5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243897852403-coebp7fdoeb1uui8v026l245ld61lv99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
